@@ -16,17 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Hi%20there,%20I'm%20Negar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
-  <br/>
+  <!-- Header Banner -->
+  <img src="./header.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Header Banner" />
 
-  <!-- Dynamic Typing Header -->
+  <br/><br/>
+
+  <!-- Dynamic Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Semi-Full+Stack+Software+Developer;Laravel+%2B+Next.js+%2B+.NET+Core;Building+Practical+Tools+%26+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=580&lines=Full+Stack+Software+Developer;Laravel+%2B+Next.js+%2B+.NET+Core;Architecting+Scalable+Modern+Systems;Clean+Code+%26+Developer+Tooling" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    Crafting scalable web architectures, modern reactive frontends, and developer-centric utilities.
+    Crafting high-performance web applications, robust APIs, and developer-centric utilities.
   </p>
 
   <!-- Quick Social Badges -->
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://YOUR_WEBSITE.com">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 </div>
@@ -47,86 +48,41 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🔭 **Focus:** Architecting robust backends with **Laravel** and **.NET Core**, alongside responsive, fluid user interfaces powered by **Next.js**.
-- 🛠️ **Ecosystem:** Designing modular systems, microservices, and lightweight web tools with containerized environments (**Docker**).
-- 🧩 **Mindset:** Obsessed with clean code, automated workflows, and building straightforward tools that solve real development friction.
-- ⚡ **Workspace:** Accelerated development with **Cursor**, modern CI/CD pipelines, and deep Git workflows.
+- 💻 **Core Competency:** **Full Stack Development** with production expertise in **Laravel**, **.NET Core**, and modern reactive frontends using **Next.js** & **TypeScript**.
+- 🏗️ **Architecture:** Engineering modular architectures, secure RESTful APIs, and microservices inside containerized environments (**Docker**).
+- 🧩 **Philosophy:** High standard for clean code, type safety, testable logic, and frictionless developer experience.
+- ⚡ **Workflow:** Fast-paced development powered by **Cursor**, Git workflows, and automated CI/CD pipelines.
 
 ---
 
 ### 🛠️ Tech Toolkit
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Backend & APIs</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Databases</strong></td>
-    <td align="center" width="25%"><strong>Tools & Workflow</strong></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2D8?style=flat-square&logo=tailwind-css&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=visual-studio-code&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Backend & APIs | Frontend | DevOps & Database | Tools & Workflow |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/><br/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><br/><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/><br/><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/> | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/><img src="https://img.shields.io/badge/Tailwind_CSS-38B2D8?style=flat-square&logo=tailwind-css&logoColor=white"/><br/><img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/><br/><img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/><br/><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> | <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=visual-studio-code&logoColor=white"/><br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white"/><br/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
+
+</div>
 
 ---
 
 ### 🌟 Featured Highlights & Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ polymigration</h4>
-      <p>A multi-language, automated database schema and migration CLI tool built to bridge data structures seamlessly across disparate environments.</p>
-      <code>CLI</code> • <code>Database</code> • <code>Automation</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔄 cURL Converter</h4>
-      <p>Clean developer utility designed to transform raw HTTP requests and cURL signatures into reusable client-side and backend request snippets.</p>
-      <code>Web App</code> • <code>Developer Tools</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 Matrix Task Management</h4>
-      <p>Visual day-hour allocation matrix dashboard engineered for granular time-share tracking, local persistence, and productivity reporting.</p>
-      <code>Next.js</code> • <code>Interactive UI</code> • <code>State Management</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎫 Ticketing & Workflow Engine</h4>
-      <p>Structured support dispatch platform handling issue tracking, role access, and operational event lifecycles.</p>
-      <code>Laravel</code> • <code>Clean Architecture</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **⚡ polymigration** | Automated multi-language database schema and migration CLI engine. | `CLI` `Database` `Automation` |
+| **🔄 cURL Converter** | Smart developer utility to parse raw HTTP requests into client & server snippets. | `Next.js` `TypeScript` `Dev Tools` |
+| **📊 Matrix Task Manager** | Visual day-hour allocation matrix dashboard for granular time tracking. | `React` `Tailwind CSS` `State` |
+| **🎫 Ticketing Engine** | Structured issue dispatch and event tracking backend service. | `Laravel` `Clean Architecture` `APIs` |
+
+</div>
 
 ---
 
-### 📈 Activity & Insights
+### 📈 Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
@@ -137,10 +93,4 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,1&height=100&section=footer" width="100%"/>
 </div>
