@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- Sleek Gradient Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Hi%20there,%20I'm%20Negar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="./header.jpg" width="100%"/>
   
   <br/>
 
@@ -124,11 +124,11 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
-</div>
+</div> -->
 
 <br/>
 
