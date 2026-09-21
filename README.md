@@ -132,6 +132,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,1&height=90&section=footer" width="100%"/>
-</div>
+</div> -->
